@@ -1,7 +1,7 @@
 import json
 import os
 
-TASK_FILE = 'tasks.json'
+TASK_FILE = 'day6_tasks.json'
 
 # タスク読み込み
 if os.path.exists(TASK_FILE):
